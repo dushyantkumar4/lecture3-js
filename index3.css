@@ -1,0 +1,33 @@
+.main{
+    height: 400px;width: 400px;
+    display: flex;
+    border:3px solid rgb(2, 108, 108);
+    margin:0 auto;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    padding:1rem;
+    justify-content: center;
+    gap:1rem;
+}
+.box{
+    height: 100px;width: 100px;
+    font-size: 50px;
+    border:2px solid black;
+    border-radius: 0.5rem;
+    text-align: center;
+    background-color: gray;
+}
+.second-div{
+    height: 80px;width: 900px;
+    background-color: pink;
+    margin:1rem auto;
+    border:2px solid rgb(2, 108, 108);
+    border-radius: 0.7rem;
+    display: flex;
+    align-items: center;
+    gap:1rem;
+    padding-left:1rem;
+}
+nav{
+    font-size: 24px;
+}
